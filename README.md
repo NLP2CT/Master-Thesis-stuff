@@ -11,7 +11,7 @@ Submit your thesis theis proposal
 - A hard copy of your proposal
 - [Registration Form for Master's Thesis](https://grs.um.edu.mo/wp-content/uploads/GRS-Form-009.pdf)
 
-## 3. Nominate the Examination Comitee
+## 3. Nominate a Examination Commitee
 
 After Submitted your proposal, you should prepare your Thesis and Presentation
 
