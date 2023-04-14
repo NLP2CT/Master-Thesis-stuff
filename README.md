@@ -13,3 +13,6 @@ Submit your thesis theis proposal
 ## 3. Nominate the Examination Comitee
 
 After Submitted your proposal, you should prepare your Thesis and Presentation
+
+[Nomination of exam committee_v1.docx](Nomination of exam committee_v1.docx)
+[Oral Defense_Form.doc](Oral Defense_Form.doc)
