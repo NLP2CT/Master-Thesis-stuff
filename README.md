@@ -7,14 +7,12 @@
 [Thesis Proposal Template](https://www.overleaf.com/latex/templates/thesis-proposal-template/qrvjrcgpjncy)
 
 ## 2. Submit the proposal
-Submit your thesis theis proposal
+Submit your thesis proposal
 - A hard copy of your proposal
 - [Registration Form for Master's Thesis](https://grs.um.edu.mo/wp-content/uploads/GRS-Form-009.pdf)
 
-## 3. Nominate a Examination Commitee
+## 3. Nominate an Examination Commitee
 
-After Submitted your proposal, you should prepare your Thesis and Presentation
+After Submitted your proposal, you should prepare your Thesis and Presentation. 
 
-[Nomination of exam committee_v1.docx](Nomination of exam committee_v1.docx)
-
-[Oral Defense_Form.doc](Oral Defense_Form.doc)
+At the same time, a form for nominating your examination Committee should be submitted. (`Nomination of exam committee_v1.docx` in this repository.)
