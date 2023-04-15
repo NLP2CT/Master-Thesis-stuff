@@ -11,10 +11,13 @@ Submit your thesis proposal
 - A hard copy of your proposal
 - [Registration Form for Master's Thesis](https://grs.um.edu.mo/wp-content/uploads/GRS-Form-009.pdf)
 
-## 3. Nominate an Examination Commitee
+## 3. Prepare your Thesis
 
 After Submitted your proposal, you should prepare your Thesis and Presentation. 
+
 [Thesis Template](https://www.overleaf.com/latex/templates/um-fst-msc-thesis-latex-tmpl/nzmptkjbmyby)
+
+## 4. Nominate an Examination Commitee
 
 At the same time, a form for nominating your examination Committee should be submitted. (`Nomination of exam committee_v1.docx` in this repository.)
 
