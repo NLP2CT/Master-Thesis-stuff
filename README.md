@@ -11,7 +11,7 @@ Submit your thesis proposal
 - A hard copy of your proposal
 - [Registration Form for Master's Thesis](https://grs.um.edu.mo/wp-content/uploads/GRS-Form-009.pdf)
 
-## 3. Prepare your Thesis
+## 3. Prepare your Thesis and Presentation
 
 After Submitted your proposal, you should prepare your Thesis and Presentation. 
 
