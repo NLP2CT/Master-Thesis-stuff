@@ -18,4 +18,4 @@ After Submitted your proposal, you should prepare your Thesis and Presentation.
 
 At the same time, a form for nominating your examination Committee should be submitted. (`Nomination of exam committee_v1.docx` in this repository.)
 
-[Master Thesis Template](https://www.overleaf.com/latex/templates/um-fst-msc-thesis-latex-tmpl/nzmptkjbmyby)
+
