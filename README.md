@@ -4,7 +4,7 @@
 ## 1. Prepare Your Mater Thesis Proposal
 [Guidelines for producing Master Thesis](https://www.fst.um.edu.mo/academics/current-students/graduate-students/guidelines-for-producing-master-thesis/)
 
-[Thesis Proposal Template](https://www.overleaf.com/latex/templates/thesis-proposal-template/qrvjrcgpjncy)
+[Thesis Proposal Template](https://www.overleaf.com/read/fchmkpnfkpgc)
 
 ## 2. Submit the proposal
 Submit your thesis proposal
